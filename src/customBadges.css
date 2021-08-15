@@ -1,0 +1,27 @@
+#app-mount .avatar-1BDn8e+h2 { /*Makes badge show*/
+    overflow: visible;
+}
+.avatar-1BDn8e[src*="237627458143125506"]+h2::after { /*Mine*/
+    content: '';
+    position: absolute;
+    left: -30px;
+    bottom: -28px;
+    height: 18px;
+    width: 18px;
+    z-index: 1;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/*Badge images*/
+
+.avatar-1BDn8e[src*="237627458143125506"]+h2::after { /*My badge*/
+    background-image: url('https://rmkx.github.io/src/badges/myBadge.svg');
+    filter: drop-shadow(0 0 2.5px crimson) brightness(0.55);
+    transition: 0.35s ease;
+}
+.avatar-1BDn8e[src*="237627458143125506"]:hover+h2::after { /*My badge hovered message*/
+    filter: drop-shadow(0 0 2.5px crimson) brightness(1.25);
+    transition: 0.35s ease;
+}
