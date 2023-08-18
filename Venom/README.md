@@ -1,6 +1,6 @@
 <h1 align="center">Venom</h1>
 <p align="center">
-  <img alt="Preview" width="860" alt="preview" src="https://media.discordapp.net/attachments/858894428428828703/876457924472496179/unknown.png?width=1202&height=676">
+  <img alt="Preview" width="860" alt="preview" src="https://cdn.discordapp.com/attachments/1020789559895789679/1142171437046702080/image.png">
 <p align="center">
 <p>Enjoy Discord with a theme based on elements that pop out of the screen and venom cool background (this theme source isnt by me i asked owner of duality theme can i edit and post on github with credits for him! CREDIT TO DUALITY THEME!)</p>
 <p align="center">
