@@ -1,7 +1,7 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/1020789559895789679/1142171437046702080/image.png" alt="Preview" width="40%">
 
 <div align="left">
-  <img align="left" src="https://tenor.com/bDSKh.gif" alt="Logo" width="60" height="70">
+  <img align="left" src="https://cdn.discordapp.com/attachments/1126426695512096848/1142176412963455116/u-mad-venom.gif" alt="Logo" width="60" height="70">
 
   <h3 align="left">Venom Theme</h3>
   <p align="left">Stay satisfied with smooth discord theme with fully customized discord</p>
